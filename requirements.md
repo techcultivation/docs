@@ -49,4 +49,5 @@
   * A contract not 
   * How long in advance does it need to be cancelled
 * a contract binds money either from an allocated budget or free money.
-* The moment the CCT engages a contract for a projec
+* The moment the CCT engages a contract for a project the money will be taken from a projects budget or their free money and can not be re-allocated by anyone except the CCT.
+
