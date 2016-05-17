@@ -34,7 +34,7 @@
 * The purchase price will be taken from the budget of the project
 * There need be be bills for sold goods
 
-## Accounting for taxation
+## Accounting not only for taxation
 * All incoming and outgoing money need to be reflected within the Accounting
 * The ammount the CCT takes from every donation will not be shown within the project
 * Shifting money between projects needs to be reflected within the accounting
@@ -46,8 +46,28 @@
   * Begin of contract
   * End of contract
   * Latest date it can be renewed _or_ cancelled before a new period starts.
-  * A contract not 
   * How long in advance does it need to be cancelled
 * a contract binds money either from an allocated budget or free money.
 * The moment the CCT engages a contract for a project the money will be taken from a projects budget or their free money and can not be re-allocated by anyone except the CCT.
+
+## Grants
+* Grants will be manually entered by the CCT
+* Money from grants can be budgeted but not be transfered to other projects
+* Grants which allow spending only on certain subjects will be budgeted accordingly by the CCT and can not be changed by anyone else than the CCT
+
+## Reimbursement
+* Users can be reimubursed by a project for spendings (Travel costs, Hardware, Software, etc.) they had
+* There may be a budget prior to the reimbursement of a user. In this case only the ammount budgeted can be reimbursed. Budget allocated for reimbursement has a valid to date. It can only be allocated after this date. Money not taken from an allocated reimbursement budget after the reimbursement took place will be allocated backto the available funds. 
+* The user requesting reimbursement needs to upload all necessary documents. The form can not be modified
+* An administrator or a user with the needed user rights will see the request for reimbursement and accept, decline or give back with further comments why it is given back. 
+ * Accepted reimbursement will be payed to the Bank/Paypal account specified by the user in their profile. If this information is missing, the user does not qualify for reimbursement. The user will be notified the moment the money is on the way.
+ * Declined reimbursement will notify the user
+ * Reimbursements given back to the user with further comments can be modified by the user.
+* The CCT can always overrule.
+* Travel Expenses will have a special form covering all requirements for travel reimbursement
+
+## Contracting
+
+## Employment
+
 
