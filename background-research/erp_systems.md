@@ -10,7 +10,9 @@
 - Compiere
 - Odoo
 
-## Command line accounting/banking tools
+## Used by other fiscal sponsors
+- [NPOacct (Software Freedom Conservancy)](https://sfconservancy.org/npoacct/)
 
+## Command line accounting/banking tools
 - aqbanking
-- (h)ledger
+- [(h)ledger](http://plaintextaccounting.org/)
