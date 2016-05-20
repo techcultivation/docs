@@ -367,7 +367,7 @@ a book from time to time.
 
 **Niels ten Oever**, Article19 (Netherlands)
 
-**Christian Pfaab, **Bremen University (Germany)
+**Christian Pfaab**, Bremen University (Germany)
 
 **Simon Phipps**, Open Rights Group/Document Foundation (UK)
 
