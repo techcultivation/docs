@@ -35,8 +35,9 @@ TODO: ask for non-profit pricing
 - [letterscan.de](http://www.letterscan.de/) München
     * no pricing online
 - [dropscan.de](https://www.dropscan.de/preise-gewerblich) Berlin
-    * 10€/month + 1.2€ per mail (up to 10 pages)
-    * 50€/month includes 50 mail (up to 10 pages)
+    * probably the most widely used, hipster startup
+    * 10€/month + 1.2€ per mail (up to 10 pages each)
+    * 50€/month includes 50 mail (up to 10 pages each), additional mail 0.80€/mail
 - [postzuemail.de/](http://www.postzuemail.de/) Berlin
     * looks cheap, shop system buggy
     * 46€/month up to 100 pages/month 
