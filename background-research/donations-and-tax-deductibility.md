@@ -45,7 +45,7 @@ TGE takes a 5% cut, the rest will simply be transferred to the final
 beneficiary.
 
 We might want to become a partner, until we have built our own 
-"transnational giving network" toghether with other non-profits of the 
+"transnational giving network" together with other non-profits of the 
 Free Software world.
 
 Even just to find out how they do it, it's worth getting in touch. They
