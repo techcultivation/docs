@@ -25,10 +25,10 @@ Some countries seem to be better at accepting claims, but it seems
 it is at least required to send a letter in which you cite that 
 ruling before your donations will be accepted as such. [Here's a Dutch example](http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/centres/sci/newssummary/news_29-5-2015-9-11-34) of how it can work with just a letter.
 
-Our own experience is limited. So far we have asked a couple of 
-donors from other European countries to send our "official" German 
-donation receipt plus a signed English translation plus German 
-letter by the tax office that confirms tax status to their own tax 
+Our own experience is limited. In other non-profits, so far, we 
+have asked a couple of donors from other European countries to send our "official" German 
+donation receipt, plus a signed English translation, plus German 
+letter by the tax office confirming our tax status, to their own tax 
 offices and ask if that was sufficient, but we have yet to hear of 
 any results.
 
