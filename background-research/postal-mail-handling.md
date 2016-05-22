@@ -94,7 +94,9 @@ and eventually partner with FSFE to get git-backed document repositories
 certified... Of course there is no certified free software project,
 we have not investigated further but it is probably quite expensive.
 
-Also, just from briefly reading a couple of articles about TR RESISCAN,
-it is still not absolutely clear if it's accepted. There seem to be some
-circumstances where there are some remaining doubts or problems. We will
-discuss this with a tax accountant and lawyer and update this section.
+There seem to be some circumstances under which even certified digital
+storage is not enough, but it looks like for all matters that we are
+concerned about (receipts of projects and most postal mail), we should be
+just fine. We will monitor this and discuss with our lawyers, and especially
+in the first years still keep paper copies of everything we did receive as
+postal mail. See [TR RESISCAN: Der Teufel steckt wie immer im Detail](http://www.egovernment-computing.de/der-teufel-steckt-wie-immer-im-detail-a-491184/) for a discussion of remaining issues.
