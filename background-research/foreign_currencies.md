@@ -21,3 +21,7 @@ If the CCT will maintain accounts in other currencies than EUR, we could have re
 There are two outcomes of this issue:  
 1. We start with only one currency (EUR) and have less pain   
 2. We maintain different currencies (EUR, GPB, USD) and deal with more accounts and changing exchange rates. __In the mid term this needs to be implemented__. 
+
+## Notes
+* DATEV can handle differnet exchange rates and they provide the exchange rates to their program. I am not sure if they can be fetched easily form there. 
+* Official exchange rates are provided by several banks and the German Federal Bank (there are some APIs with XML things falling out)
