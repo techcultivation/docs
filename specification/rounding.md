@@ -10,7 +10,7 @@ Examples (rounding two figures behind decimal point):
 * 13,3749... € => 13,37 €  
 * 13,3750... € => 13,38 €
 
-negative numbers are rounded according to their ammount, eg. 5Away from Zero:
+negative numbers are rounded according to their ammount, eg. 5 Away from Zero:
 
 * -13,3749... € => -13,37 € 
 * -13,3750... € => -13,38 €
