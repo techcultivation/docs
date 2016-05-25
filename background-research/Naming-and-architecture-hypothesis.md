@@ -1,10 +1,12 @@
+# Naming and architecture hypothesis
+
 The tecnological platform with a name that still has to be defined, is refered in these document with the name of CCTP (Center Cultivation Technolocy Platform)
 
 The CCTP is composed by three host communicating each other: MONEYBOX, TAXBOX, PUBLICBOX 
 
 every time is defined a component that needs a name, is put in uppercase.
 
-# the MONEYBOX
+## the MONEYBOX
 
 Is the host fetching the bank account, has the most sensitive data of the setup. will be a Linux server running in some trustworthy place.
 
@@ -15,7 +17,7 @@ Is the host fetching the bank account, has the most sensitive data of the setup.
 5. has implemented scripts called MONEYFETCHER, one for every MONEYSOURCE. They are scripts implementing the API, they are considered blackbox.
 
 
-## Moneybox workflows - CronJOB INCOMECHECK
+### Moneybox workflows - CronJOB INCOMECHECK
 
 1. A data pipeline will execute the MONEYCHECKER and get a sequence of information, normally, the last 50 or 100 based on bank API. Every of this take the name of DONATIONENTRY, and the data pipeline will operated over a collection of DONATIONENTRY
     ```
@@ -48,29 +50,29 @@ Is the host fetching the bank account, has the most sensitive data of the setup.
 4. send an email to the MONEYBOX adiminstrator saying the number of DONATIONENTRY exists.
 5. all the new DONATIONENTRY are converted in a CSV format (or the format required for the tax computing program) and saved on a shared local folder.
 
-## MoneyBox management service (MONEYMANAGEMENT)
+### MoneyBox management service (MONEYMANAGEMENT)
 
 This is a webserver exposing REST API usable to query the status of INCREMENTALLOG. is not exposed to the public, and the only entities that talk to this webserver are: the MONEYBOX administrator and the PUBLICBOX.
 
 below I split the API in macrocategories.
 
-### communication with the PUBLICBOX
+#### communication with the PUBLICBOX
 
 PublicBOX will be an ERP system that still has to be defined, but we can assume which information
 has to be provided and which other has to be received.
 
-### Provided (from MONEYBOX to PUBLICBOX)
+#### Provided (from MONEYBOX to PUBLICBOX)
 
 1. anonymized DONATIONENTRY to represent an increment/decremeent of the project wallet, these information get copied by the PUBLICBOX in their format
 
-### Received (from PUBLICBOX to MONEYBOX)
+#### Received (from PUBLICBOX to MONEYBOX)
 
 1. payment order: associated to a project-milestone-TAXCODE, a reason, an amount, a target, a payment source can be communicated, each one of is a MONEYTRANSFER. a MONEYTRASFER is reflected in the log because when accepted by the bank became a MONEYFETCH (with negative import)
 2. new project (a TAX code is generated)
 3. new milestone associated to a project (a TAX code is generated)
 4. project/milestone get deleted (the TAX code is marked as not-used but has to remain allocated until the end of the year)
 
-### service for the MONEY ADMIN 
+#### service for the MONEY ADMIN 
 
 MONEYADMIN is a person (Tomate in our first adoption), is the administrator of the financial
 part of the CCTP, the service for this person is done via a webapp that provide abilities to
@@ -83,7 +85,7 @@ consult the INCREMENTALLOG and changes some specific value.
 5. configuration of the deduction performed by the organisation (per MONEYSOURCE or per project?)
 6. configuration of the currency exchange rates
 
-# TAXBOX 
+## TAXBOX 
 
 Is a windows computer probably running in a laptop owned by the financial administrator of the initiative.
 
@@ -91,7 +93,7 @@ Is a windows computer probably running in a laptop owned by the financial admini
 2. has a browser from where the moneybox statistics can be accessed
 3. has the path of MONEYBOX where the CSV are saved, mounted locally, so the files can be easily imported.
 
-# PUBLICBOX
+## PUBLICBOX
 
 Research has still to be done on the proper ERP, high level features that are clear at the moment, are:
 
