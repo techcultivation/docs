@@ -1,5 +1,4 @@
 # Center for the Cultivation of Technology: A Non-Profit Project Incubator
-\rightline{ <http://techcultivation.org/> }
 
 ## Executive Summary
 
