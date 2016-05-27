@@ -1,4 +1,4 @@
-# Center for the Cultivation of Technology: A Non-Profit Project Incubator
+# Overview
 
 ## Executive Summary
 

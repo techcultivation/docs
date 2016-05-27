@@ -1,42 +1,24 @@
-Center for the Cultivation of Technology
-========================================
-
 Introduction
 ------------
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
 
-   intro
+   overview
    walk-through
 
 Requirements
 ------------
 
 .. toctree::
-   :maxdepth: 2
-   :numbered:
-   :glob:
+   :maxdepth: 3
 
    requirements
-   specification/*
 
-Background research
--------------------
+Background research & considerations
+------------------------------------
 
 .. toctree::
-   :maxdepth: 2
-   :numbered:
-   :glob:
+   :maxdepth: 3
 
-   background-research/*
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   background-research

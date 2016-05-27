@@ -15,6 +15,7 @@
 import sys
 import os
 from recommonmark.parser import CommonMarkParser
+import guzzle_sphinx_theme
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -118,7 +119,20 @@ todo_include_todos = True
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'alabaster'
+html_theme = 'guzzle_sphinx_theme'
+
+# Adds an HTML table visitor to apply Bootstrap table classes
+html_translator_class = 'guzzle_sphinx_theme.HTMLTranslator'
+html_theme_path = guzzle_sphinx_theme.html_theme_path()
+
+# Register the theme as an extension to generate a sitemap.xml
+extensions.append("guzzle_sphinx_theme")
+
+# Guzzle theme options (see theme.conf for more information)
+html_theme_options = {
+     # Set the name of the project to appear in the sidebar
+     "project_nav_name": project,
+}
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -212,7 +226,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'CenterfortheCultivationofTechnologydoc'
+htmlhelp_basename = 'cct-docs'
 
 # -- Options for LaTeX output ---------------------------------------------
 
