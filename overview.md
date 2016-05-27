@@ -360,7 +360,7 @@ a book from time to time.
 
 **Allen "gunner" Gunn**, Aspiration Tech (USA)
 
-**Dr. Martin Krafft**, Debian (Germany)
+**Dr. Martin Krafft**, Debian developer (Germany)
 
 **Beatrice Martini**, Aspiration Tech (Germany)
 
