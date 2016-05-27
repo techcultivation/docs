@@ -1,7 +1,7 @@
-# Walk through 
+# Walkthrough 
 This doc gives a short walk through for a small group in interaction with CCT.
 
-## actors
+## Actors
 * CCT
 * prject (Project Cloudless) 
   Project Cloudless is a small group of developers working on free and open source tools to erase the need for commercial cloud products. It consists of three individuals. After they released their first beta, people are signaling that they want
