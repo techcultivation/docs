@@ -60,7 +60,7 @@ Bei Auflösung der Gesellschaft oder bei Wegfall steuerbegünstigter Zwecke fäl
  #.	Die Gesellschaft hat einen oder mehrere Geschäftsführer.
  #. Die Geschäftsführer werden durch Beschluss der Gesellschafterversammlung bestellt und abberufen. 
  #.	Die Zuständigkeit für Abschluss, Änderung oder Beendigung von Dienstverträgen mit Geschäftsführern liegt bei der Gesellschafterversammlung. 
- #.	(4) Die rechtlichen Vorgaben des jeweils geltenden Gemeinnützigkeitsrechts sind einzuhalten. Die Geschäftsführer erhalten Aufwendungsersatz und eine angemessene Vergütung in den Grenzen des gemeinnützigkeitsrechtlich Zulässigen.
+ #.	Die rechtlichen Vorgaben des jeweils geltenden Gemeinnützigkeitsrechts sind einzuhalten. Die Geschäftsführer erhalten Aufwendungsersatz und eine angemessene Vergütung in den Grenzen des gemeinnützigkeitsrechtlich Zulässigen.
 
 # § 7 Geschäftsführung
 
