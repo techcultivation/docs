@@ -58,8 +58,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Center for the Cultivation of Technology'
-copyright = u'2016, cct team'
-author = u'cct team'
+copyright = u'2016, CCT Team'
+author = u'CCT Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -75,7 +75,7 @@ release = datetime.date.today().strftime('v%Y%m%d')
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = "en"
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
@@ -198,10 +198,10 @@ html_last_updated_fmt = '%c'
 #html_show_sourcelink = True
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
-#html_show_sphinx = True
+html_show_sphinx = False
 
 # If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
-#html_show_copyright = True
+html_show_copyright = False
 
 # If true, an OpenSearch description file will be output, and all pages will
 # contain a <link> tag referring to it.  The value of this option must be the
@@ -250,7 +250,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'CenterfortheCultivationofTechnology.tex', u'Center for the Cultivation of Technology Documentation',
-     u'cct team', 'manual'),
+     u'CCT Team', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
