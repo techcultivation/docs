@@ -13,7 +13,7 @@ using our platform and tools should they wish to do so.
 
 ## Mission
 
-We are setting up a non-profit company in Germany specifically designed
+We are establishing a not-for-profit company in Germany specifically designed
 to act as an active fiscal sponsor for Internet Freedom, Free Software
 and social-change projects.
 
