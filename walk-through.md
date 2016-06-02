@@ -8,8 +8,8 @@ This doc gives a short walk through for a small group in interaction with CCT.
     * donate Money
     * join the project
 * Individual A (Alice)
-* Individual B (Arthur)
-* Individual C (Bob)
+* Individual B (Bob)
+* Individual C (Charlotte)
 * Donor A
 * Donor B
 
