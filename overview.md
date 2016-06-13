@@ -360,6 +360,8 @@ a book from time to time.
 
 **Allen "gunner" Gunn**, Aspiration Tech (USA)
 
+**Matthias Kirschner**, Free Software Foundation Europe (Germany)
+
 **Dr. Martin Krafft**, Debian developer (Germany)
 
 **Beatrice Martini**, Aspiration Tech (Germany)
