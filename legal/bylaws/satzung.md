@@ -1,11 +1,13 @@
-# § 1 Firma, Sitz, Geschäftsjahr
+# Bylaws of CCT gGmbH (Draft v2)
+
+## § 1 Firma, Sitz, Geschäftsjahr
 
  #.	Die Firma der Gesellschaft lautet Center for the Cultivation of Technology gemeinnützige GmbH.
  #.	Der Sitz der Gesellschaft ist Berlin.
  #. Der Sitz der Verwaltung der Gesellschaft ist nicht an den satzungsmäßigen Sitz gebunden. Die Verlegung des Verwaltungssitzes bedarf eines zustimmenden Beschlusses der Gesellschafterversammlung.
  #.	Die Gesellschaft ist auf unbestimmte Zeit geschlossen. Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr ist ein Rumpfgeschäftsjahr und beginnt mit Eintragung der Gesellschaft im Handelsregister und endet am 31. Dezember des Jahres der Eintragung.
 
-# § 2 Gegenstand und Zweck des Unternehmens
+## § 2 Gegenstand und Zweck des Unternehmens
 
  #. Die Gesellschaft verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Zweck der Gesellschaft ist
  
@@ -35,7 +37,7 @@
 
  #. Die Gesellschaft ist berechtigt, Zweigniederlassungen zu errichten, sich an anderen Unternehmen zu beteiligen, entsprechende Beteiligungen zu erwerben, zu halten, zu verwalten und zu veräußern sowie alle sonstigen Maßnahmen zu veranlassen, die geeignet sind, den angegebenen gemeinnützigen Zweck der Gesellschaft zu fördern.
 
-# § 3 Gemeinnützigkeit
+## § 3 Gemeinnützigkeit
 
  #. Die Gesellschaft ist selbstlos tätig; sie verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
  #. Die gemeinnützigen Zwecke müssen nicht gleichzeitig und in gleichem Maße verwirklicht werden.
@@ -45,60 +47,60 @@
  #.	Die Gesellschafter dürfen keine Gewinnanteile und in ihrer Eigenschaft als Gesellschafter keine sonstigen Zuwendungen aus Mitteln der Gesellschaft erhalten, sofern sie nicht ihrerseits steuerbegünstigte Körperschaften i.S.d. §§ 51ff AO sind. Sie erhalten bei ihrem Ausscheiden oder bei Auflösung der Gesellschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurück. 
  #.	Die Gesellschaft darf keine juristische oder natürliche Person durch Ausgaben, die dem Zweck der Gesellschaft fremd sind, oder durch unverhältnismäßig hohe Unterstützungen, Zuwendungen oder Vergütungen begünstigen.
 
-# § 4 Stammkapital
+## § 4 Stammkapital
 
  #.	Das Stammkapital der Gesellschaft beträgt 25.000,– € (i.W.: fünfundzwanzig tausend Euro).
  #.	Auf das Stammkapital übernimmt die Stiftung Erneuerbare Freiheit, Ingolstadt den einzigen Geschäftsanteil mit der laufenden Nummer 1 im Nennwert von EUR 25.000,00. 
  #.	Die Einlage auf den Geschäftsanteil ist in Geld zu leisten und sofort in voller Höhe zur Zahlung fällig.
 
-# § 5 Liquidation
+## § 5 Liquidation
 
 Bei Auflösung der Gesellschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Gesellschaft, soweit es die eingezahlten Kapitalanteile der Gesellschafter und den gemeinen Wert der von den Gesellschaftern geleisteten Sacheinlagen übersteigt, an die Stiftung Erneuerbare Freiheit, Ingolstadt, die es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
 
-# § 6 Geschäftsführer
+## § 6 Geschäftsführer
 
  #.	Die Gesellschaft hat einen oder mehrere Geschäftsführer.
  #. Die Geschäftsführer werden durch Beschluss der Gesellschafterversammlung bestellt und abberufen. 
  #.	Die Zuständigkeit für Abschluss, Änderung oder Beendigung von Dienstverträgen mit Geschäftsführern liegt bei der Gesellschafterversammlung. 
  #.	Die rechtlichen Vorgaben des jeweils geltenden Gemeinnützigkeitsrechts sind einzuhalten. Die Geschäftsführer erhalten Aufwendungsersatz und eine angemessene Vergütung in den Grenzen des gemeinnützigkeitsrechtlich Zulässigen.
 
-# § 7 Geschäftsführung
+## § 7 Geschäftsführung
 
  #.	Die Geschäftsführer sind verpflichtet, die Geschäfte der Gesellschaft in Übereinstimmung mit dem Gesetz, mit diesen Gesellschaftervertrag in seiner jeweils gültigen Fassung, einer etwaig von der Gesellschafterversammlung verabschiedeten Geschäftsordnung für die Geschäftsführung sowie den Beschlüssen und Weisungen der Gesellschafterversammlung zu führen.
  #.	Soweit in einer von der Gesellschafterversammlung beschlossenen Geschäftsordnung nichts Abweichendes geregelt ist, sind zwei oder mehrere Geschäftsführer, unbeschadet ihrer Vertretungsmacht nach außen, nur gemeinschaftlich zur Geschäftsführung befugt. 
  #.	Die Gesellschafter können durch Gesellschafterbeschluss im Wege der Einzelanweisung oder in Form der Festlegung eines Katalogs zustimmungsbedürftiger Geschäfte oder in einer verabschiedeten Geschäftsordnung für die Geschäftsführung eine jährliche aufzustellende Unternehmensplanung für das kommende Geschäftsjahr von ihrer Genehmigung sowie Geschäfte und Maßnahmen von ihrer vorherigen Zustimmung abhängig machen. 
 
-# § 8 Vertretung der Gesellschaft
+## § 8 Vertretung der Gesellschaft
 
  #.	Die Gesellschaft wird, wenn nur ein Geschäftsführer vorhanden ist, durch diesen vertreten. Sind mehrere Geschäftsführer vorhanden, wird sie durch zwei Geschäftsführer gemeinschaftlich oder durch einen Geschäftsführer gemeinsam mit einer Prokuristen vertreten. 
  #. Durch Beschluss der Gesellschafterversammlung kann dem Geschäftsführer oder, wenn mehrere Geschäftsführer vorhanden sind, einzelnen, mehreren oder allen von ihnen die Befugnis zur Einzelvertretung und/oder die Befreiung von den Beschränkungen des § 181 BGB erteilt werden. 
  #. Die vorstehenden Regelungen gelten für die Liquidatoren der Gesellschaft entsprechend. Wird die Gesellschaft nach § 66 Abs. 1 GmbHG von den bisherigen Geschäftsführern liquidiert, so besteht deren konkrete Vertretungsbefugnis auch als Liquidatoren fort.
 
-# § 9 Niederschrift über Gesellschafterbeschlüsse
+## § 9 Niederschrift über Gesellschafterbeschlüsse
 
 Die Gesellschafter haben über nicht beurkundungsbedürftige Gesellschafterbeschlüsse unverzüglich nach der Beschlussfassung eine Niederschrift aufzunehmen und diese zu unterschreiben.
 
-# § 10 Jahresabschluss
+## § 10 Jahresabschluss
 
  #.	Für die Aufstellung des Jahresabschlusses gelten die gesetzlichen Bestimmungen.
  #.	Hinsichtlich der Ergebnisverwendung gelten grundsätzlich ebenfalls die gesetzlichen Bestimmungen. Gewinne sind jedoch nicht auszuschütten, sondern ausschließlich für die satzungsmäßigen Zwecke zu verwenden. Rücklagenbildung ist nur in den gemeinnützigkeitsunschädlichen Grenzen der §§ 58 Nr. 6, 7 AO zulässig.
 
-# § 11 Beirat
+## § 11 Beirat
 
  #.	Die Gesellschaft kann einen Beirat bestellen, der die Geschäftsführung bei der Durchführung ihrer Aufgaben berät und unterstützt.
  #.	Insbesondere sollen die Mitglieder des Beirats systematisch zu Fach- und Führungsfragen Rat geben, für interne und externe Veranstaltungen zur Verfügung stehen, und für die Entwicklung der Gesellschaft wichtige Kontakte herstellen.
  #.	Der Beirat erhält weder formelle noch materielle Entscheidungsbefugnisse. Insofern ist er kein Gremium der Gesellschaft und trägt keinerlei Haftungsrisiko.
  #.	Die Mitglieder des Beirats werden von der Gesellschaft berufen. Ihre Amtszeit läuft bis zur jederzeit möglichen Niederlegung oder Abberufung.
 
-# § 12 Bekanntmachungen
+## § 12 Bekanntmachungen
 
 Bekanntmachungen der Gesellschaft erfolgen nur im Bundesanzeiger für die Bundesrepublik Deutschland.
 
-# § 13 Gerichtsstand
+## § 13 Gerichtsstand
 
 Gerichtsstand ist der Sitz der Gesellschaft.
 
-# § 14 Schlussbestimmungen
+## § 14 Schlussbestimmungen
  #.	Soweit in diesem Gesellschaftsvertrag keine besondere Regelung erfolgt ist, gelten die gesetzlichen Bestimmungen.
  #.	Sollten einzelne Bestimmungen dieser Satzung ganz oder teilweise unwirksam sein oder werden, so wird die Wirksamkeit der Satzung im Übrigen hierdurch nicht berührt. Die unwirksame, nichtige oder anfechtbare Bestimmung ist so umzudeuten oder durch Satzungsänderung zu ändern bzw. zu ergänzen, dass der damit verfolgte Zweck im Rahmen der gesetzlichen Bestimmungen soweit wie möglich erreicht wird. Dasselbe gilt bei Vorhandensein von Lücken.
  #.	Die Gesellschaft übernimmt die Gründungskosten (Notar- und Registergerichtsgebühren, Kosten der Veröffentlichung und die Kosten der Gründungsberatung) bis zur Höhe von EUR 2.500,00.

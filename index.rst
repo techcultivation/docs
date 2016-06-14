@@ -21,3 +21,11 @@ Background research & considerations
    :maxdepth: 3
 
    background-research
+
+Bylaws
+------
+
+.. toctree::
+   :maxdepth: 2
+
+   bylaws
