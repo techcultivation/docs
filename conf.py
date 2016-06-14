@@ -249,10 +249,10 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'CenterfortheCultivationofTechnology.tex', u'Center for the Cultivation of Technology Documentation',
-     u'CCT Team', 'manual'),
+    ('overview', 'CenterForTheCultivationofTechnology.tex', project + '-- Introduction', author, 'manual'),
+    ('requirements', 'CCT-Requirements.tex', project + ' -- Platform requirements', author, 'manual'),
+    ('background-research', 'CCT-BackgroundResearch.tex', project + ' -- Background research and considerations' , author, 'manual'),
 ]
-
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
 #latex_logo = None
