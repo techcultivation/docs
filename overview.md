@@ -285,7 +285,7 @@ community.
 -   the platform allows to manage hundreds of small projects
 -   source code all cleaned up, project documentation available
 
-## Origin of CCT 
+## Origin 
 
 The concept for this project was developed and refined over four years,
 based on interviews with a broad number of actors within the Internet
