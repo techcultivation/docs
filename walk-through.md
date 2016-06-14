@@ -1,21 +1,18 @@
 # Walkthrough 
-This doc gives a short walk through for a small group in interaction with CCT.
+This doc gives a short walkthrough for a small group in interaction with CCT.
 
 ## Actors
-* CCT
-* project (Project Cloudless) 
-  Project Cloudless is a small group of developers working on free and open source tools to erase the need for commercial cloud products. It consists of three individuals. After they released their first beta, people are signaling that they want
-    * donate Money
-    * join the project
+
+* CCT: The Center for the Cultivation of Technology
+* Project: Project Cloudless is a small group of developers working on a free and open source tool to erase the need for commercial cloud products. It consists of three individuals. After they released their first beta, people are signaling that they want to donate.
 * Individual A (Alice)
 * Individual B (Bob)
 * Individual C (Charlotte)
-* Donor A
-* Donor B
+* Donor Dennis
 
 ## Before anything happens
 
-Anna, Arthur and Bob were doing some research wether they should build a company or a non profit around their project. They found out that the overhead for such an entity is nothing they want to do. After some searching around they found out that there is the CCT. They get in contact with the CCT to ask if they might join with their project.  
+Alice, Bob and Charlotte were doing some research whether they should build a company or a non-profit around their project. They found out that the overhead for such an entity is nothing they want to do. After some searching around they found out that there is the CCT. They get in contact with the CCT to ask if they might join with their project.  
 The CCT and the group have some prior talks and decide, that they will be in a good place during the beta phase of the CCT platform . They do a contract which allows the CCT to represent the group to the outside and collect donations for them. The contract is signed electronically. The message pops up at CCT that the contact is signed.
 
 ## Setting up at CCT
