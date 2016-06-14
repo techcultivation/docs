@@ -5,7 +5,6 @@ Introduction
    :maxdepth: 2
 
    overview
-   walk-through
 
 Requirements
 ------------
