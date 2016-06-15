@@ -27,7 +27,7 @@
 
      a) die Förderung von Kunst und Kultur.
 
-        Dies wird insbesondere verwirklicht durch die Organisation und Durchführung von künstlerischen und kulturellen Projekten sowie über die Verleihung von Preisen für herausragende künstlerische und kulturelle Arbeit bzw. Werke im Bereich freier Technologien, z.B. Installationen, Performances, Bild-, Bewegtbild- und Textwerke, die das Verhältnis von Technologie, Mensch und Freiheit zum Gegenstand haben; die Vergabe solcher prinzipiell der Allgemeinheit zugänglicher Preise und die jeweiligen Vergabekriterien werden jeweils rechtzeitig veröffentlicht;
+        Dies wird insbesondere verwirklicht durch die Organisation und Durchführung von künstlerischen und kulturellen Projekten sowie über die Verleihung von Preisen für herausragende künstlerische und kulturelle Arbeit bzw. Werke im Bereich freier Technologien, z.B. Installationen, Performances, bildene Kunst und Textwerke, die das Verhältnis von Technologie, Mensch und Freiheit zum Gegenstand haben; die Vergabe solcher prinzipiell der Allgemeinheit zugänglicher Preise und die jeweiligen Vergabekriterien werden jeweils rechtzeitig veröffentlicht;
 
      a) die Förderung des bürgerschaftlichen Engagements zugunsten vorgenannter gemeinnütziger Zwecke.
 
