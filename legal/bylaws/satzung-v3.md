@@ -1,4 +1,4 @@
-# Bylaws of CCT gGmbH (Draft v2)
+# Bylaws of CCT gGmbH (Draft v3)
 
 ## § 1 Firma, Sitz, Geschäftsjahr
 
