@@ -9,11 +9,13 @@
 
 ## § 2 Gegenstand und Zweck des Unternehmens
 
- #. Die Gesellschaft verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Zweck der Gesellschaft ist
+ #. Die Gesellschaft verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. 
+ 
+ #. Zweck der Gesellschaft ist die Entwicklung und Erforschung freier und offener Technologien. Freie und offene Technologien sind dabei ausschliesslich Entwicklungen, deren Ergebnisse nachvollziehbar und inklusive Konstruktions- und Bauplänen, Quellcode und Dokumentation frei und ohne Lizenzkosten der Allgemeinheit zur Verfügung gestellt werden. Diesen Zweck verwirklichen wir insbesondere durch
  
      a) die Förderung von Wissenschaft und Forschung. 
 
-		Dies wird insbesondere verwirklicht durch die Entwicklung und Erforschung freier und offener Technologien (freie und offene Technologien sind dabei ausschließlich Entwicklungen, deren Ergebnisse nachvollziehbar und inklusive Konstruktions- und Bauplänen, Quellcode und Dokumentation frei und ohne Lizenzkosten der Allgemeinheit zur Verfügung gestellt und durch Bildungsveranstaltungen vermittelt werden), den Betrieb der zugehörigen nötigen Infrastruktur und die zeitnahe Bereitstellung der Forschungsergebnisse für die Öffentlichkeit, die Organisation und Durchführung wissenschaftlicher Veranstaltungen (z.B. Tagungen, Workshops, Kongresse) sowie über die Förderung der nationalen und internationalen Zusammenarbeit in der Forschung und Entwicklung in obigen Bereichen, z.B. durch die Vernetzung von Projekten und die Bereitstellung gemeinsamer Infrastruktur; die Entwicklung, den Aufbau und Betrieb geeigneter Kommunikationsinstrumente bzw. -medien, die die Förderung der Wissenschaft und Forschung unterstützen (z.B. geeignete Internetplattformen, Printmedien, Newsletter etc., die Forschungsergebnisse transportieren und zugänglich machen);
+		Durch Unterstützung und Durchführung von nationalen und internationalen Forschungsprojekten im Bereich freier Technologien; den Betrieb der zugehörigen nötigen Infrastruktur und die zeitnahe Bereitstellung der Forschungsergebnisse für die Öffentlichkeit; die Organisation und Durchführung wissenschaftlicher Veranstaltungen (z.B. Tagungen, Workshops, Kongresse) sowie über die Förderung der nationalen und internationalen Zusammenarbeit in der Forschung und Entwicklung in obigen Bereichen, z.B. durch die Vernetzung von Projekten und die Bereitstellung gemeinsamer Infrastruktur; die Entwicklung, den Aufbau und Betrieb geeigneter Kommunikationsinstrumente bzw. -medien, die die Förderung der Wissenschaft und Forschung unterstützen (z.B. geeignete Internetplattformen, Printmedien, Newsletter etc., die Forschungsergebnisse transportieren und zugänglich machen);
 
      a) die Verbraucherberatung und der Verbraucherschutz.
 
@@ -25,15 +27,13 @@
 
      a) die Förderung von Kunst und Kultur.
 
-        Dies wird insbesondere verwirklicht durch die Organisation und Durchführung von künstlerischen und kulturellen Projekten sowie über die Verleihung von Preisen für herausragende künstlerische und kulturelle Arbeit bzw. Werke (die Vergabe solcher prinzipiell der Allgemeinheit zugänglicher Preise und die jeweiligen Vergabekriterien werden jeweils rechtzeitig veröffentlicht);
+        Dies wird insbesondere verwirklicht durch die Organisation und Durchführung von künstlerischen und kulturellen Projekten sowie über die Verleihung von Preisen für herausragende künstlerische und kulturelle Arbeit bzw. Werke im Bereich freier Technologien (die Vergabe solcher prinzipiell der Allgemeinheit zugänglicher Preise und die jeweiligen Vergabekriterien werden jeweils rechtzeitig veröffentlicht);
 
-     a) die Förderung des bürgerschaftlichen Engagements zugunsten gemeinnütziger, mildtätiger und kirchlicher Zwecke.
+     a) die Förderung des bürgerschaftlichen Engagements zugunsten vorgenannter gemeinnütziger, mildtätiger und kirchlicher Zwecke.
 
         Dies wird wird insbesondere verwirklicht durch die Entwicklung, den Aufbau und Betrieb geeigneter Kommunikationsinstrumente bzw. -medien, die das bürgerschaftliche Engagement unterstützen (z.B. geeignete Internetplattformen, Printmedien, Newsletter etc., die bürgerschaftliche Initiativen stärken und vernetzen);
         
-     a) das nationale und internationale Einwerben von Mitteln – in Form von Geld-, Sach- oder Arbeitsleistungen – zur Finanzierung und Durchführung gemeinnütziger, mildtätiger und kirchlicher Projekte im In- und Ausland. 
-     
-     	Die Förderung kann den gesamten Katalog des § 52 Abs. 2 AO sowie § 53 AO und § 54 AO umfassen; dies wird insbesondere verwirklicht durch die Entwicklung und den Betrieb einer Internetplattform, die besonders zur Ansprache und Gewinnung von Spendern für die zu fördernden gemeinnützigen Zwecke im Sinne der AO geeignet ist.
+     a) das nationale und internationale Einwerben von Mitteln – in Form von Geld-, Sach- oder Arbeitsleistungen – zur Finanzierung und Durchführung vorgenannter gemeinnütziger, mildtätiger und kirchlicher Projekte im In- und Ausland. 
 
  #. Die Gesellschaft ist berechtigt, Zweigniederlassungen zu errichten, sich an anderen Unternehmen zu beteiligen, entsprechende Beteiligungen zu erwerben, zu halten, zu verwalten und zu veräußern sowie alle sonstigen Maßnahmen zu veranlassen, die geeignet sind, den angegebenen gemeinnützigen Zweck der Gesellschaft zu fördern.
 
