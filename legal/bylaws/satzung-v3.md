@@ -29,11 +29,11 @@
 
         Dies wird insbesondere verwirklicht durch die Organisation und Durchführung von künstlerischen und kulturellen Projekten sowie über die Verleihung von Preisen für herausragende künstlerische und kulturelle Arbeit bzw. Werke im Bereich freier Technologien (die Vergabe solcher prinzipiell der Allgemeinheit zugänglicher Preise und die jeweiligen Vergabekriterien werden jeweils rechtzeitig veröffentlicht);
 
-     a) die Förderung des bürgerschaftlichen Engagements zugunsten vorgenannter gemeinnütziger, mildtätiger und kirchlicher Zwecke.
+     a) die Förderung des bürgerschaftlichen Engagements zugunsten vorgenannter gemeinnütziger Zwecke.
 
         Dies wird wird insbesondere verwirklicht durch die Entwicklung, den Aufbau und Betrieb geeigneter Kommunikationsinstrumente bzw. -medien, die das bürgerschaftliche Engagement unterstützen (z.B. geeignete Internetplattformen, Printmedien, Newsletter etc., die bürgerschaftliche Initiativen stärken und vernetzen);
         
-     a) das nationale und internationale Einwerben von Mitteln – in Form von Geld-, Sach- oder Arbeitsleistungen – zur Finanzierung und Durchführung vorgenannter gemeinnütziger, mildtätiger und kirchlicher Projekte im In- und Ausland. 
+     a) das nationale und internationale Einwerben von Mitteln – in Form von Geld-, Sach- oder Arbeitsleistungen – zur Finanzierung und Durchführung vorgenannter gemeinnütziger Projekte mit Partnern im In- und Ausland. 
 
  #. Die Gesellschaft ist berechtigt, Zweigniederlassungen zu errichten, sich an anderen Unternehmen zu beteiligen, entsprechende Beteiligungen zu erwerben, zu halten, zu verwalten und zu veräußern sowie alle sonstigen Maßnahmen zu veranlassen, die geeignet sind, den angegebenen gemeinnützigen Zweck der Gesellschaft zu fördern.
 
