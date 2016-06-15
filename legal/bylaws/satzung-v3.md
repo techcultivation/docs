@@ -23,11 +23,11 @@
 
      a) die Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe.
 
-        Dies wird insbesondere verwirklicht durch die Organisation und Durchführung von öffentlichen Bildungsveranstaltungen, die Entwicklung, den Aufbau und Betrieb geeigneter Kommunikationsinstrumente bzw. -medien, die die Förderung der Bildung unterstützen (z.B. geeignete Internetplattformen, Printmedien, Newsletter etc., die Bildungsinhalte transportieren und zugänglich machen), die Vergabe von Stipendien die geeignet sind, die hier genannten gemeinnützigen Zwecke zu fördern (die Stipendien sind prinzipiell der Allgemeinheit zugänglich, ihre Vergabe und die zugehörigen Vergabekriterien werden jeweils rechtzeitig veröffentlicht);
+        Dies wird insbesondere verwirklicht durch die Organisation und Durchführung von öffentlichen Bildungsveranstaltungen, die Entwicklung, den Aufbau und Betrieb geeigneter Kommunikationsinstrumente bzw. -medien, die die Förderung der Bildung unterstützen (z.B. geeignete Internetplattformen, Printmedien, Newsletter etc., die Bildungsinhalte transportieren und zugänglich machen), die Vergabe von Stipendien die geeignet sind, die hier genannten gemeinnützigen Zwecke zu fördern; die Stipendien sind prinzipiell der Allgemeinheit zugänglich, ihre Vergabe und die zugehörigen Vergabekriterien werden jeweils rechtzeitig veröffentlicht;
 
      a) die Förderung von Kunst und Kultur.
 
-        Dies wird insbesondere verwirklicht durch die Organisation und Durchführung von künstlerischen und kulturellen Projekten sowie über die Verleihung von Preisen für herausragende künstlerische und kulturelle Arbeit bzw. Werke im Bereich freier Technologien, z.B. Installationen, Performances, Bild-, Bewegtbild- und Textwerke, die das Verhältnis von Technologie, Mensch und Freiheit zum Gegenstand haben (die Vergabe solcher prinzipiell der Allgemeinheit zugänglicher Preise und die jeweiligen Vergabekriterien werden jeweils rechtzeitig veröffentlicht);
+        Dies wird insbesondere verwirklicht durch die Organisation und Durchführung von künstlerischen und kulturellen Projekten sowie über die Verleihung von Preisen für herausragende künstlerische und kulturelle Arbeit bzw. Werke im Bereich freier Technologien, z.B. Installationen, Performances, Bild-, Bewegtbild- und Textwerke, die das Verhältnis von Technologie, Mensch und Freiheit zum Gegenstand haben; die Vergabe solcher prinzipiell der Allgemeinheit zugänglicher Preise und die jeweiligen Vergabekriterien werden jeweils rechtzeitig veröffentlicht;
 
      a) die Förderung des bürgerschaftlichen Engagements zugunsten vorgenannter gemeinnütziger Zwecke.
 
