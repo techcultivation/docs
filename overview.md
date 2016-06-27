@@ -380,5 +380,7 @@ a book from time to time.
 
 **Tiberiu-Cezar Tehnoetic**, Fundatia Ceata (Romania)
 
+**Aaron Wolf**, Snowdrift (USA)
+
 **Dr. Stefano Zacchiroli**, Open Source Initiative, Debian Project
 Leader 2010-2013 (France)
