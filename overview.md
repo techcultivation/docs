@@ -336,7 +336,7 @@ Club in Germany, and works in close partnerships with international NGOs
 in both technology and tech policy areas. He studied computer science at
 TU Dresden, with a focus on privacy & anonymity, software engineering,
 project management, and machine learning. His project torservers.net
-brought together 20 non-profit organizations in 14 countries, many of
+brings together over 20 non-profit organizations in 14 countries, many of
 which were newly created for this purpose.
 
 **Dr. Martin Modlinger** is Director of Science and Culture at Renewable
