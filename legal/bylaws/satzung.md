@@ -1,4 +1,6 @@
-# Bylaws of CCT gGmbH (Draft v3)
+# Satzung der Center for the Cultivation of Technology gemeinnützige GmbH
+
+Fassung vom 15. Juli 2016
 
 ## § 1 Firma, Sitz, Geschäftsjahr
 
