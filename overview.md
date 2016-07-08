@@ -376,7 +376,7 @@ a book from time to time.
 
 **Jonah Sheridan**, Information Ecology (USA)
 
-**Liz Steiniger**, previously Open Tech Fund (USA)
+**Liz Steininger**, previously Open Tech Fund (USA)
 
 **Tiberiu-Cezar Tehnoetic**, Fundatia Ceata (Romania)
 
