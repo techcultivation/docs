@@ -1,0 +1,16 @@
+digraph {
+    label="Fetching incoming transactions";
+ 
+    node[shape="box", style="rounded"]
+       start;
+    node[shape="box", style=""]
+       "Finance Backend"; "Finance Database"; Bank
+    
+ 
+ 	start -> "Finance Backend";
+ 	"Finance Backend" -> Bank[label="API call"];
+ 	Bank -> "Finance Backend"[label="API response"];
+ 	"Finance Backend" -> "Finance Database" [label="writes data"];
+ 	
+    {rank=same; "Finance Backend" Bank}
+}
