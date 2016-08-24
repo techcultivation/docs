@@ -14,6 +14,13 @@ Requirements
 
    requirements
 
+Workflows
+------------
+.. toctree::
+   :maxdepth: 3
+
+   workflow
+
 Background research & considerations
 ------------------------------------
 
@@ -29,3 +36,5 @@ Bylaws
    :maxdepth: 2
 
    bylaws
+
+
