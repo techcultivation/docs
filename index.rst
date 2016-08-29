@@ -20,7 +20,7 @@ Workflows
 .. toctree::
    :maxdepth: 2
 
-   workflows
+   workflows/workflows
 
 Background research & considerations
 ------------------------------------
