@@ -2,7 +2,7 @@ digraph {
     label="Fetching incoming transactions";
  
     node[shape="box", style="rounded"]
-       start;
+       start; end
     node[shape="box", style=""]
        "Finance Backend"; "Finance Database"; Bank
     
@@ -11,6 +11,7 @@ digraph {
  	"Finance Backend" -> Bank[label="API call"];
  	Bank -> "Finance Backend"[label="API response"];
  	"Finance Backend" -> "Finance Database" [label="writes data"];
+ 	"Finance Database" -> end;
  	
     {rank=same; "Finance Backend" Bank}
 }
