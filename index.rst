@@ -16,10 +16,11 @@ Requirements
 
 Workflows
 ------------
-.. toctree::
-   :maxdepth: 3
 
-   workflow
+.. toctree::
+   :maxdepth: 2
+
+   workflows
 
 Background research & considerations
 ------------------------------------
