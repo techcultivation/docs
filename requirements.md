@@ -56,7 +56,7 @@
 
 * Users can be reimubursed by a project for travel costs and other expenses
 * reimbursements are filed against a budget category and ask for information based on type of reimbursement (travel expenses require a different set of information than other types of reimbursements)
-* There may be a budget prior to the reimbursement of a user. In this case only the ammount budgeted can be reimbursed. Budget allocated for reimbursement has a valid to date. It can only be allocated after this date. Money not taken from an allocated reimbursement budget after the reimbursement took place will be allocated backto the available funds. 
+* There may be a budget prior to the reimbursement of a user. In this case only the ammount budgeted can be reimbursed. Budget allocated for reimbursement has a valid to date. It can only be allocated after this date. Money not taken from an allocated reimbursement budget after the reimbursement took place will be allocated back to the available funds. 
 * The user requesting reimbursement needs to upload all necessary documents and some short explanation. The form can not be modified.
   * digital scans/good photos of receipts will be enough
 * Project members with necessary permission will see the request for reimbursement and accept, decline or edit and return for resubmission with comments.
@@ -81,10 +81,10 @@
 ## Contract Management
  
 * The CCT needs to be able to enter engagements on behalf of the project (rent of office space, servers, etc).
-* at the beginnig, this will probably be handled and tracked manually
+* at the begining, this will probably be handled and tracked manually
 * Contract details need to be provided by the project in advance
   * Purpose of the contract (e.g. rent for office space, server rent, ...)
-  * Begin of contract
+  * Begining of contract
   * End of contract
   * Latest date it can be renewed _or_ cancelled before a new period starts.
   * How long in advance does it need to be cancelled
