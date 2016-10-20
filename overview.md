@@ -350,6 +350,13 @@ visions of a better world into reality. He holds a PhD in German
 (History & Culture) from the University of Cambridge, and still picks up
 a book from time to time.
 
+**Matija Šuklje** serves as the General Counsel of the Center for the
+Cultivation of Technology. He is a lawyer by profession and geek by heart, with
+almost two decades of active involvement in the FOSS scene and heaps of
+experience in both the ICT and legal NGO sector – most notably as FSFE’s Legal
+Coordinator. Matija enjoys explaining difficult legal issues to technical minds
+and technical details to lawyers.
+
 ## Advisory Board
 
 **Claudio "vecna" Agosti**, Tactical Tech, Globaleaks (Germany)
