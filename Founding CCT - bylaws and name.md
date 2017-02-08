@@ -14,7 +14,7 @@ a) It enables tax-deductible donations to us or to our projects, which is quite 
 
 ### § 2 Conditions of non-profit status
 
-As an entity incorporated in Germany, we have to adhere to German tax laws - and tax laws are what determine non-profit status. Most important in this is § 52 Abgabenordnung (https://dejure.org/gesetze/AO/52.html), which lists all activities that are accepted as being of benefit to the public. While there is currently a discussion to widen these categories to include, for example, political action, as of now non-profits have to adhere to these categories: only entitities pursueing the goals listed in § 52 AO can apply for non-profit status. Also, ALL major activities of an entity have to fall in these categories. Commercial side activities are possible (and resulting profits are taxed normally), but the non-profit core work must always dominate.
+As an entity incorporated in Germany, we have to adhere to German tax laws - and tax laws are what determine non-profit status. Most important in this is § 52 Abgabenordnung (https://dejure.org/gesetze/AO/52.html), which lists all activities that are accepted as being of benefit to the public. While there is currently a discussion to widen these categories to include, for example, political action, as of now non-profits have to adhere to these categories: only entitities pursuing the goals listed in § 52 AO can apply for non-profit status. Also, ALL major activities of an entity have to fall in these categories. Commercial side activities are possible (and resulting profits are taxed normally), but the non-profit core work must always dominate.
 
 ### § 3 Meeting the requirements for non-profit status
 
@@ -36,7 +36,7 @@ a) Our first draft of bylaws, version of 5 April 2016.
 
 (insert bylaws 2016.04.05)
 
-In this version, we split §2 (on aims and purpose of CCT) into two smaller parts: one listing all the tax-exempts goals we would be pursueing, one listing all the actions we would perform in order to achieve these goals. We thought this made sense because each of the goals would be achieved by several of the actions. We also added a short definition of open source below the two sections, to explain the repeate use of "open and free technologies" in the sections above.
+In this version, we split §2 (on aims and purpose of CCT) into two smaller parts: one listing all the tax-exempts goals we would be pursuing, one listing all the actions we would perform in order to achieve these goals. We thought this made sense because each of the goals would be achieved by several of the actions. We also added a short definition of open source below the two sections, to explain the repeate use of "open and free technologies" in the sections above.
 
 b) Feedback on the first draft of bylaws, received 2 May 2016
 
