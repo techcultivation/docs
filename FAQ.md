@@ -81,6 +81,22 @@ a) We needed to find terms that would be accepted by German tax authorities for 
 a) We will adhere to proper definitions of "open source" nonetheless. Our internal agreements and project agreements will specify this.
 
 
+## *Center for the Cultivation of Technology* is a great name, isn't it?
+
+Yes.
+
+
+## But what does it mean?
+
+We wanted to find a name that reflects our mission and the ideas behind it: carefully growing something from small seeds to fully-developed projects, ready for the outside world. To quote from wikipedia: 
+
+"Horticulturists apply their knowledge, skills, and technologies used to grow intensively produced plants for human food and non-food uses and for personal or social needs. 
+
+Their work involves plant propagation and cultivation with the aim of improving plant growth, yields, quality, nutritional value, and resistance to insects, diseases, and environmental stresses. They work as gardeners, growers, therapists, designers, and technical advisors in the food and non-food sectors of horticulture."
+
+We believe this approach makes a lot of sense when adapted to technology and those who work on technology. 
+
+
 ## I take issue with X/Y/Z in your bylaws. Can we change this?
 
 No, not anymore. The bylaws are the result of lenghty discussions with the (developer) community and legal entities, most significantly the relevant tax offices. German tax offices actually offer the service of reviewing bylaws before an organisation is founded and registered (up to three reviews), and we made use of this service.
