@@ -116,4 +116,37 @@ The first review of our actual activities in 2016 is due at the tax authorities 
 
 ## Fighting for our name
 
-In all this, we did not expect our proposed name, Center for the Cultivation of Technology, would be much of a problem. We came up with this in a meeting in April 2016, 
+In all this, we did not expect our proposed name, Center for the Cultivation of Technology, would be much of a problem. We came up with this in a meeting in April 2016, and used it in all conversation with the tax authorities.
+
+### § 1 Register Court does not accept our commercial firm name
+
+On 4 August 2016 however, about one month after CCT had been founded, our notary informed us that the Register Court (Registriergericht Berlin) would not accept "Center for the Cultivation of Technology" as our commercial firm name. They argued that the chosen name was "simply descriptive" and needed furhter individualisation so it could be distinguished form other businesses ("Center for the Cultivation of Technology gemeinnützige
+GmbH“ [ist] zu beanstanden, da sie rein beschreibend ist und somit nicht den Anforderungen des § 18 Abs. 1 HGB genüg[t]. Ein Individualisierungszusatz [ist] erforderlich."). We could either argue with the Chamber of Industry and Commerce (IHK), and have them confirm to us and the Register Court they see no issue with the name, or actually change the name, for example by adding "CCT" to the name. 
+
+### § 2 Issues raised against the name
+
+Adding "CCT" before or after our full name, resulting in "CCT - Center for the Cultivation of Technology gGmbH" or "Center for the Cultivation of Technology - CCT gGmbH" would most likely have solved the dispute, but we did not particularly like the forced addition of the abbreviation, and we also were convinced the name was not simply of descriptive nature. One can handle such matters alone and argue with the Chamber of Industry and Commerce (IHK) directly, but we resorted to a lawyer with experise in the matter, to be safe. His task was to defend us against two claims:
+
+- "Center for the Cultivation of Technology" is not actually a "center" (raised by the IHK)
+
+Their argument was that "center" per definition requires considerable size and influence in the area in question, e.g. being the leading actor in terms of sales and revenue in the market, number of customers, or similar benchmarks. As we cannot demonstrate such influence, we should not call ourselves a "center".
+
+- "Center for the Cultivation of Technology" is a purely descriptive term, the firm name being derived from the object of the enterprise alone (raised by the IHK and the Register Court)
+
+Here they argued that our name was empty and featureless, as it simply described the company's business (as would be the case of an energy provider calling itself "Energy" and not "Betelgeuse Energy" or "n-rg"). As such a featureless name ("Sachfirma"), it could not be registered.
+
+### § 3 Arguing for our name
+
+On 13 September 2016, our lawyer addressed each issue in the following manner:
+
+- Being a "center"
+
+Firstly we argued that "Center" is actually not as restrictive as "Zentrum" in German. While "Zentrum" may indeed require a dominant role in the market, the english translation does not necessarily elicit such expectiations in readers. Secondly, "Center" has been accepted in normal usage in other areas where size is not the sole criterion, such as in "Fitness-Center" or "Bowling-Center". Thus, such standing should also not be required of us. Thirdly (perhaps most importantly), we argued that in our area, we actually do (or aim to) provide a broad, near full-scale range of services, from raising funds for open source projects to handling accounting, organisation, and most other issues.
+
+- Being a fantasy name
+
+We argued that "Center for the Cultivation of Technology" was not at all a purely descriptive term. Firstly, it was not a German name (not "Zentrum zur Kultivierung von Technologie") and thus already removed from the object of the enterprise (at least in German). Secondly, we demonstrated that the combination of "Cultivation" and "Technology" in either English or German was not at all common. In fact, "Kultivierung von Technologie" is so uncommon in German that it should, we argued, definitely qualify as a fantasy name (which is perfectly acceptable). Our lawyer actually resorted to definitions of "Kultivierung" on wikipedia to demonstrate that the term is publicly understtod to mean something clearly related to the field of biology and not technology. This, he argued, clearly made "Cultivation of Technology" an "imaginative combination of two words that intentionally departs from literal sense in order to distinguish our firm from others".
+
+### § 4 Accepted as fantasy name
+
+On 19 September 2016, the Chamber for Industry and Commerce (IHK) followed our lawyer's interpretation and withdrew its reservations against "Center for the Cultivation of Technology". Their written statement then convinced the Register Court to accept our commercial firm name as well.
