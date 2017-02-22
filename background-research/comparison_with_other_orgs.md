@@ -10,9 +10,9 @@ The Center for the Cultivation of Technology is an umbrella organisation, which 
 
 ### Apache Software Foundation
 
-registered in: USA
-entity type: 501(c)(3) non-profit charity
-<https://www.apache.org/>
+- registered in: USA
+- entity type: 501(c)(3) non-profit charity
+- <https://www.apache.org/>
 
 Requires projects to be licensed under the [Apache-2.0 license][apache_2.0] and for contributors to sign its [Contributor License Agreement][apache_cla].
 
@@ -22,9 +22,9 @@ Requires projects to be licensed under the [Apache-2.0 license][apache_2.0] and 
 
 ### The Center for the Cultivation of Technology
 
-registred in: Germany
-entity type: gGmbH – non-profit limited-liability corporation
-<https://techcultivation.org/>
+- registred in: Germany
+- entity type: gGmbH – non-profit limited-liability corporation
+- <https://techcultivation.org/>
 
 Us :)
 
@@ -37,11 +37,11 @@ We aim to be as lightweight by default as possible. At least initially we plan t
 - managing contracts, employment and merchandise
 
 
-### /[The Commons Conservancy/]
+### \[The Commons Conservancy\]
 
-registered in: the Netherlands
-entity type: stichting – public benefit organisation
-<http://commonsconservancy.org/>
+- registered in: the Netherlands
+- entity type: stichting – public benefit organisation
+- <http://commonsconservancy.org/>
 
 Does not handle money at all, only intangible assets, guaranteeing that the projects will forever remain free and open. Offers its service for free. Does not require transfer of copyright, but does maintain a [list of approved CLA/CAA][tcc_ldw] that projects may use to transfer the rights to it.
 
@@ -57,9 +57,9 @@ It also aims at being lightweight and modular. As such, the basic services it of
 
 ### Public Software CIC
 
-registred in: UK
-entity type: CIC – Community Interest Company
-<https://publicsoftware.eu/>
+- registred in: UK
+- entity type: CIC – Community Interest Company
+- <https://publicsoftware.eu/>
 
 The core services Public Software CIC provides to its member projects are:
 
@@ -71,16 +71,16 @@ The core services Public Software CIC provides to its member projects are:
 
 ### Software Freedom Conservancy
 
-registred in: USA
-entity type: 501(c)(3) non-profit charity
-<https://sfconservancy.org/>
+- registred in: USA
+- entity type: 501(c)(3) non-profit charity
+- <https://sfconservancy.org/>
 
 
 ### Software in the Public Interest
 
-registred in: USA
-entity type: 501(c)(3) non-profit charity
-<http://www.spi-inc.org/>
+- registred in: USA
+- entity type: 501(c)(3) non-profit charity
+- <http://www.spi-inc.org/>
 
 
 ## Project- or technology-specific organisations
@@ -90,16 +90,16 @@ There are several organisations out there that concentrate on serving a specific
 
 ### GNOME Foundation
 
-registred in: USA
-entity type: 501(c)(3) non-profit charity
-<https://www.gnome.org/foundation/>
+- registred in: USA
+- entity type: 501(c)(3) non-profit charity
+- <https://www.gnome.org/foundation/>
 
 
 ### KDE e.V.
 
-registred in: Germany
-entity type: e.V. – registered voluntary association
-<https://ev.kde.org>
+- registred in: Germany
+- entity type: e.V. – registered voluntary association
+- <https://ev.kde.org>
 
 Historically it had limited itself to hosting only software that was based on Qt and was part of the KDE desktop environment.
 
