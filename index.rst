@@ -14,6 +14,14 @@ Requirements
 
    requirements
 
+FAQ
+---
+
+.. toctree::
+   :maxdepth: 2
+
+   FAQ
+
 Workflows
 ------------
 
@@ -37,5 +45,4 @@ Bylaws
    :maxdepth: 2
 
    bylaws
-
 
