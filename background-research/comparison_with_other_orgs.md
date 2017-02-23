@@ -11,7 +11,7 @@ The Center for the Cultivation of Technology is an umbrella organisation, which 
 ### Apache Software Foundation
 
 - registered in: USA
-- entity type: 501(c)(3) non-profit charity
+- entity type: 501(c)(3) – non-profit charity
 - <https://www.apache.org/>
 
 Requires projects to be licensed under the [Apache-2.0 license][apache_2.0] and for contributors to sign its [Contributor License Agreement][apache_cla].
@@ -55,6 +55,24 @@ It also aims at being lightweight and modular. As such, the basic services it of
 [tcc_ldw]: http://dracc.commonsconservancy.org/0013-LegalDocumentWhitelist/
 
 
+### Verein zur Förderung freier Information und Software e.V. (ffis e.V)
+
+- registered in: Germany
+- entity type: e.V. – registered voluntary association
+- <http://www.ffis.de/>
+
+
+### The Linux Foundation
+
+- registered in: USA
+- entity type: 501(c)(6) – non-profit trade association
+- <https://www.linuxfoundation.org/>
+
+The Linux Foundation is a vendor-neutral association that promotes, protects, and standardizes Linux “by providing a comprehensive set of services to compete effectively with closed platforms.” While it is best known for the Linux kernel, it also takes on [several other projects][lf_projects], to which it applies open source governance best practices, including license and contribution agreement choices, in keeping with the ideals of Linux.
+
+[lf_projects]: https://www.linuxfoundation.org/projects
+
+
 ### Public Software CIC
 
 - registred in: UK
@@ -72,14 +90,14 @@ The core services Public Software CIC provides to its member projects are:
 ### Software Freedom Conservancy
 
 - registred in: USA
-- entity type: 501(c)(3) non-profit charity
+- entity type: 501(c)(3) – non-profit charity
 - <https://sfconservancy.org/>
 
 
 ### Software in the Public Interest
 
 - registred in: USA
-- entity type: 501(c)(3) non-profit charity
+- entity type: 501(c)(3) – non-profit charity
 - <http://www.spi-inc.org/>
 
 
@@ -91,7 +109,7 @@ There are several organisations out there that concentrate on serving a specific
 ### GNOME Foundation
 
 - registred in: USA
-- entity type: 501(c)(3) non-profit charity
+- entity type: 501(c)(3) – non-profit charity
 - <https://www.gnome.org/foundation/>
 
 
@@ -111,8 +129,22 @@ Requires the projects to be licensed under a [specific subset of licenses][kde_l
 
 ### Plone Foundation
 
+- registered in: USA
+- entity type: 501(c)(3) – non-profit charity
+- <https://plone.org/foundation>
 
-### Python Foundation
+The Plone Foundation exists to further the development, marketing, and legal affairs of Plone and the Plone community and uses a [Copyright Assignment Agreement][plone_cla].
+
+[plone_cla]: https://plone.org/foundation/contributors-agreement
+
+
+### Python Software Foundation
+
+- registered in: USA
+- entity type: 501(c)(3) – non-profit charity
+- <https://www.python.org/psf/>
+
+The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of the international community of Python programmers.
 
 
 ## Further reading
