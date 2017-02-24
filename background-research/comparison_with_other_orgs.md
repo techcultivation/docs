@@ -93,12 +93,35 @@ The core services Public Software CIC provides to its member projects are:
 - entity type: 501(c)(3) – non-profit charity
 - <https://sfconservancy.org/>
 
+Services offered:
+
+- tax-deductible, earmarked donations
+- asset stewardship
+- contract negotiation and execution
+- conference logistical support
+- basic legal advice and services
+- FOSS copyright license enforcement
+- fundraising assistance
+- avoid non-profit administrivia
+- leadership mentoring, advice and guidance
+- some personal liability protection
+- officiating community elections and ballot initiatives
+
 
 ### Software in the Public Interest
 
 - registred in: USA
 - entity type: 501(c)(3) – non-profit charity
 - <http://www.spi-inc.org/>
+
+Services offered:
+
+- accepting donations and holding funds
+- holding substantial assets
+- holding intangible assets
+- signing contracts
+- legal assistance
+- technical services
 
 
 ## Project- or technology-specific organisations
@@ -111,6 +134,8 @@ There are several organisations out there that concentrate on serving a specific
 - registred in: USA
 - entity type: 501(c)(3) – non-profit charity
 - <https://www.gnome.org/foundation/>
+
+The GNOME Foundation is a non-profit organization that furthers the goals of the GNOME Project, helping it to create a free software computing platform for the general public that is designed to be elegant, efficient, and easy to use.
 
 
 ### KDE e.V.
