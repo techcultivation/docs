@@ -2,18 +2,18 @@
 
 ## Executive Summary
 
-The Center for the Cultivation of Technology (CCT) will provide a
+The Center for the Cultivation of Technology (CCT) provides a
 supportive and nurturing environment for free and open source projects.
-We will take care of organizational matters for the projects, including
+We take care of organizational matters for the projects, including
 contract management, office and legal setup, organizational structuring,
-fundraising, progress reporting and tax filing. Additionally, CCT will
+fundraising, progress reporting and tax filing. Additionally, CCT can
 train and empower project maintainers to navigate all organizational
-matters themselves, so they can choose to set up their own organization
-using our platform and tools should they wish to do so.
+matters themselves, so they are able to choose to set up their own 
+organization using our platform and tools should they wish to do so.
 
 ## Mission
 
-We are establishing a not-for-profit company in Germany specifically designed
+We established a not-for-profit company in Germany specifically designed
 to act as an active fiscal sponsor for Internet Freedom, Free Software
 and social-change projects.
 
@@ -24,16 +24,16 @@ will be made available as Free Software for other organizations to use.
 Templates will help replicate the legal structure in other
 jurisdictions.
 
-The Center for the Cultivation of Technology will help projects develop
+The Center for the Cultivation of Technology helps projects develop
 operational and funding plans tailored to the specific needs and
 abilities of the project members, and allow projects to easily and
 transparently manage and allocate their own budgets under our umbrella.
-We will take care of all matters accounting, and in cooperation with the
+We take care of all matters accounting, and in cooperation with the
 projects provide the necessary reporting and documentation for donors.
-We will assist with crowdfunding campaigns and the logistics of shipping
+We can assist with crowdfunding campaigns and the logistics of shipping
 out merchandise.
 
-Member projects will become part of a community where they can
+Member projects can become part of a community where they are able to
 coordinate and cooperate with related projects and initiatives,
 collaborate on fundraising, and exchange knowledge around grant
 applications, project development, and management.
@@ -44,9 +44,9 @@ The vast majority of free and open source technology is developed and
 maintained by small groups of technology and internet activists. Despite
 a number of collaborations on the projects' side and a genuine interest
 in supporting free and open source technology towards the general good
-of society on the funders' side, there is at the moment no entity
-capable of truly fostering both open source technology and
-project-funder relations on the scale necessary for meaningful impact.
+of society on the funders' side, there was no entity capable of truly
+fostering both open source technology and project-funder relations on 
+the scale necessary for meaningful impact.
 
 Over the past years, we have analyzed how foundations and project
 organizations in the Free Software world work, in order to create not
@@ -57,7 +57,7 @@ a whole, or even completely different (non-software) projects.
 
 Currently, the dominant approach to supporting open source development
 and other technologies and activists is through financial means.
-However, in many cases, this complicates things for small developer and
+However, in many cases, this complicates matters for small developer and
 grassroots groups. In addition to their usual organizational overhead,
 they also have to continually apply for funding, manage these resources,
 and report on their progress. Many would much rather be able to
@@ -104,7 +104,7 @@ development and activism.
 
 ## Our Services
 
-### Manage Accounting, Employment, Contracting, Payroll
+### Manage Accounting, Employment, Contracting, Payroll 
 
 Our web platform allows for all projects under our roof to manage and
 allocate their budget as they see fit, including provisions for
@@ -113,9 +113,9 @@ will facilitate all transactions and help us manage required paperwork
 including receipts and documentation, will provide employment and
 contracting templates, both for Europe and world-wide, according to the
 specific needs and wishes of projects, employees, and contractors. We
-will manage payroll and tax reporting, and provide necessary documents
-for internal and external audits. In essence, all projects will be free
-to allocate funds and work as they wish, and we will take care that
+manage payroll and tax reporting, and provide necessary documents
+for internal and external audits. In essence, all projects are free
+to allocate funds and work as they wish, and we are here to take care that
 everything goes smoothly and is properly documented.
 
 ### Manage Donations, Donor Reporting, and Help with Fundraising
@@ -124,7 +124,7 @@ We support our projects' applications for funds (for example to private
 foundations or for EU grants) and will also spearhead our own funding
 initiatives. The donor management platform will facilitate
 tax-deductible donations to all projects under our roof using various
-means such as bank transfer, Paypal, or Bitcoin. We will take care of
+means such as bank transfer, Paypal, or Bitcoin. We take care of
 all matters accounting, and in cooperation with the projects provide the
 necessary documentation for donors. This includes the processing of
 larger grants, including the management of (restricted) funds, the joint
@@ -138,9 +138,9 @@ world over time.
 
 ### Provide Asset Stewardship
 
-We will be able to hold assets, e.g. trademarks, domain names, and
+We are able to hold assets, e.g. trademarks, domain names, and
 physical equipment, for member projects whenever they would like us to
-do so. In many cases, this will help avoid licensing issues quite common
+do so. In many cases, this can help avoid licensing issues quite common
 in larger projects with fluctuating contributors.
 
 ### Offer an Expert Network and Mentor Community
